@@ -20,15 +20,25 @@ The company wants to know:
 ## Conclusions
 The most important predictor variables are - 
 	a.	OverallQual_9
+ 
 	b.	GrLivArea
+ 
 	c.	OverallQual_8
+ 
 	d.	Neighborhood_Crawfor
+ 
 	e.	Functional_Typ
+ 
 	f.	Exterior1st_BrkFace
+ 
 	g.	CentralAir_Y
+ 
 	h.	Neighborhood_Somerst
+ 
 	i.	TotalBsmtSF
+ 
 	j.	Condition1_Norm
+ 
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
